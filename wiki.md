@@ -21,8 +21,11 @@
 Wenn Links und Anker erstellt werden sollen einfach eine Überschrift erstellen. Dadurch wird schon mal der Anker automatisch mit erstellt. Es werden jedoch alle Buchstaben klein geschrieben und Leerzeichen durch Bindestriche ersetzt.   
 Aus
 >\## Markdown Anleitung
-<wird
+
+wird
 >\#markdown-anleitung
-   Und der Link zum Anker wird mit
+
+Und der Link zum Anker wird mit
 >\[zur Markdown Anleitung](#markdown-anleitung)
-   erstellt.
+
+erstellt.
