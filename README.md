@@ -1,11 +1,4 @@
-[hallo](#anker)
-
-
-
-
--------
--------
-***
+# Überschrift # {#top-1}
 
 f   
 f   
@@ -48,12 +41,4 @@ f
 f   
 f   
 f   
-f   
-
-# Titel # {#anker}
-
-
-
-
-
-
+[back to top](#top-1]
