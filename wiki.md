@@ -12,6 +12,6 @@
    
 ### Arch Linux
 [nach oben](#inhaltsverzeichnis)
-#### Packete welche ich immer installiere
-> sudo yaourt -S gimp inkscape mixxx
+#### Pakete welche ich immer installiere
+>sudo yaourt -S gimp inkscape mixxx
 
