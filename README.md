@@ -1,4 +1,4 @@
-# Überschrift # {#top-1}
+# Überschrift #
 
 f   
 f   
@@ -41,5 +41,5 @@ f
 f   
 f   
 f   
-[back to top](#top-1)
+[back to top](#überschrift)
 
